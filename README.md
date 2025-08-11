@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">📚 I'm currently working as a research assistant for <a href="https://cs.uwaterloo.ca/~jimmylin/index.html"> Professor Jimmy Lin</a> at the Data Systems Group of University of Waterloo. I'm also a contractor for <a href="https://yupp.ai/">Yupp AI</a>.<br>🎯 Goals: world domination~<br>🎲 Fun fact: I like math!</p>
+<p align="left">📚 
+  I'm currently working as a research assistant for <a href="https://cs.uwaterloo.ca/~jimmylin/index.html"> Professor Jimmy Lin</a> at the Data Systems Group of University of Waterloo. 
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; &bull; I'm also a software engineering contractor with <a href="https://yupp.ai/">Yupp AI</a> working  on AI projects.
+  <br>🎯 Goals: world domination~
+  <br>🎲 Fun fact: I like math!</p>
 
 ###
 
@@ -65,5 +69,3 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lilyjge.lilyjge&"  />
 </div>
-
-###
