@@ -1,4 +1,4 @@
-<h1 align="left">Hiii</h1>
+<h1 align="left">Hi!</h1>
 
 ###
 
@@ -13,8 +13,8 @@
 <p align="left">📚 
   I'm currently working as a research assistant for <a href="https://cs.uwaterloo.ca/~jimmylin/index.html"> Professor Jimmy Lin</a> at the Data Systems Group of University of Waterloo. 
   <br>&nbsp;&nbsp;&nbsp;&nbsp; &bull; I'm also a software engineering contractor with <a href="https://yupp.ai/">Yupp AI</a> working  on AI projects.
-  <br>🎯 Goals: world domination~
-  <br>🎲 Fun fact: I like math!</p>
+
+I love building things and I look forward to learning more!
 
 ###
 
