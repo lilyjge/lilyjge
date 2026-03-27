@@ -10,9 +10,8 @@
 
 ###
 
-- 📚 I'm currently an AI Engineer Intern at [Yupp](https://yupp.ai/),
-  - a Research Assistant working with [Professor Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/),
-  - and an ML Engineer at [WAT.ai](https://watai.ca/)
+- 📚 I'm currently a Research Assistant working with [Professor Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/)
+  - Formerly, I was an AI Engineer Intern at [Yupp](https://yupp.ai/)
 - 🎯 My interests are in AI, robots, and their intersection
 - 🎲 I'm excited to learn more and build cool things!
 
