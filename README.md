@@ -12,7 +12,7 @@
 
 - 📚 I'm currently a Research Assistant working with [Professor Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/)
   - Formerly, I was an AI Engineer Intern at [Yupp](https://yupp.ai/)
-- 🎯 My interests are in AI, robots, and their intersection
+- 🎯 My interests are in NLP, IR, robots, and their intersection
 - 🎲 I'm excited to learn more and build cool things!
 
 ###
